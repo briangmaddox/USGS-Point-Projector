@@ -1,0 +1,7 @@
+STEREO
+NAD83
+FEET
+38
+-95
+0
+0

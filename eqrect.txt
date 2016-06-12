@@ -1,0 +1,7 @@
+EQRECT
+WGS_84
+METERS
+0
+0
+0
+0

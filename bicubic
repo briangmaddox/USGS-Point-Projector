@@ -1,0 +1,40 @@
+echo Albers 4x4
+./pproject -calbersbicubicsp4 -p10 -n4 -futmin.txt -iparamin.txt -oalbers.txt
+echo Albers 10x10
+./pproject -calbersbicubicsp10 -p10 -n10 -futmin.txt -iparamin.txt -oalbers.txt
+echo Alber 100x100
+./pproject -calbersbicubicsp100 -p10 -n100 -futmin.txt -iparamin.txt -oalbers.txt
+echo Alber 500x500
+./pproject -calbersbicubicsp500 -p10 -n500 -futmin.txt -iparamin.txt -oalbers.txt
+echo Sin 4
+./pproject -csinbicubicsp4 -p10 -n4 -futmin.txt -iparamin.txt -osin.txt
+echo Sin 10
+./pproject -csinbicubicsp10 -p10 -n10 -futmin.txt -iparamin.txt -osin.txt
+echo Sin 100
+./pproject -csinbicubicsp100 -p10 -n100 -futmin.txt -iparamin.txt -osin.txt
+echo Sin 500
+./pproject -csinbicubicsp500 -p10 -n500 -futmin.txt -iparamin.txt -osin.txt
+echo Miller 4
+./pproject -cmillerbicubicsp4 -p10 -n4 -futmin.txt -iparamin.txt -omiller.txt
+echo Miller 10
+./pproject -cmillerbicubicsp10 -p10 -n10 -futmin.txt -iparamin.txt -omiller.txt
+echo Miller 100
+./pproject -cmillerbicubicsp100 -p10 -n100 -futmin.txt -iparamin.txt -omiller.txt
+echo Miller 500
+./pproject -cmillerbicubicsp500 -p10 -n500 -futmin.txt -iparamin.txt -omiller.txt
+echo poly 4
+./pproject -cpolybicubicsp4 -p10 -n4 -futmin.txt -iparamin.txt -opoly.txt
+echo poly 10
+./pproject -cpolybicubicsp10 -p10 -n10 -futmin.txt -iparamin.txt -opoly.txt
+echo poly 100
+./pproject -cpolybicubicsp100 -p10 -n100 -futmin.txt -iparamin.txt -opoly.txt
+echo poly 500
+./pproject -cpolybicubicsp500 -p10 -n500 -futmin.txt -iparamin.txt -opoly.txt
+./pproject -ctmbicubicsp4 -p10 -n4 -futmin.txt -iparamin.txt -otm.txt
+./pproject -ctmbicubicsp10 -p10 -n10 -futmin.txt -iparamin.txt -otm.txt
+./pproject -ctmbicubicsp100 -p10 -n100 -futmin.txt -iparamin.txt -otm.txt
+./pproject -ctmbicubicsp500 -p10 -n500 -futmin.txt -iparamin.txt -otm.txt
+./pproject -cpsbicubicsp4 -p10 -n4 -futmin.txt -iparamin.txt -ops.txt
+./pproject -cpsbicubicsp10 -p10 -n10 -futmin.txt -iparamin.txt -ops.txt
+./pproject -cpsbicubicsp100 -p10 -n100 -futmin.txt -iparamin.txt -ops.txt
+./pproject -cpsbicubicsp500 -p10 -n500 -futmin.txt -iparamin.txt -ops.txt

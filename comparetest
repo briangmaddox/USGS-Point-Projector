@@ -1,0 +1,79 @@
+pproject -calbersbilinear4 -p8 -n4 -futmin.txt -iparamin.txt -oalbers.txt
+pproject -calbersbilinear10 -p8 -n10 -futmin.txt -iparamin.txt -oalbers.txt
+pproject -calbersbilinear100 -p8 -n100 -futmin.txt -iparamin.txt -oalbers.txt
+pproject -calbersbilinear500 -p8 -n500 -futmin.txt -iparamin.txt -oalbers.txt
+pproject -calbersbicubic4 -p9 -n4 -futmin.txt -iparamin.txt -oalbers.txt
+pproject -calbersbicubic10 -p9 -n10 -futmin.txt -iparamin.txt -oalbers.txt
+pproject -calbersbicubic100 -p9 -n100 -futmin.txt -iparamin.txt -oalbers.txt
+pproject -calbersbicubic500 -p9 -n500 -futmin.txt -iparamin.txt -oalbers.txt
+pproject -calbersleastsqrs4 -p6 -n4 -futmin.txt -iparamin.txt -oalbers.txt
+pproject -calbersleastsqrs10 -p6 -n10 -futmin.txt -iparamin.txt -oalbers.txt
+pproject -calbersleastsqrs100 -p6 -n100 -futmin.txt -iparamin.txt -oalbers.txt
+pproject -calbersleastsqrs500 -p6 -n500 -futmin.txt -iparamin.txt -oalbers.txt
+pproject -csinbilinear4 -p8 -n4 -futmin.txt -iparamin.txt -osin.txt
+pproject -csinbilinear10 -p8 -n10 -futmin.txt -iparamin.txt -osin.txt
+pproject -csinbilinear100 -p8 -n100 -futmin.txt -iparamin.txt -osin.txt
+pproject -csinbilinear500 -p8 -n500 -futmin.txt -iparamin.txt -osin.txt
+pproject -csinbicubic4 -p9 -n4 -futmin.txt -iparamin.txt -osin.txt
+pproject -csinbicubic10 -p9 -n10 -futmin.txt -iparamin.txt -osin.txt
+pproject -csinbicubic100 -p9 -n100 -futmin.txt -iparamin.txt -osin.txt
+pproject -csinbicubic500 -p9 -n500 -futmin.txt -iparamin.txt -osin.txt
+pproject -csinleastsqrs4 -p6 -n4 -futmin.txt -iparamin.txt -osin.txt
+pproject -csinleastsqrs10 -p6 -n10 -futmin.txt -iparamin.txt -osin.txt
+pproject -csinleastsqrs100 -p6 -n100 -futmin.txt -iparamin.txt -osin.txt
+pproject -csinleastsqrs500 -p6 -n500 -futmin.txt -iparamin.txt -osin.txt
+pproject -cmillerbilinear4 -p8 -n4 -futmin.txt -iparamin.txt -omiller.txt
+pproject -cmillerbilinear10 -p8 -n10 -futmin.txt -iparamin.txt -omiller.txt
+pproject -cmillerbilinear100 -p8 -n100 -futmin.txt -iparamin.txt -omiller.txt
+pproject -cmillerbilinear500 -p8 -n500 -futmin.txt -iparamin.txt -omiller.txt
+pproject -cmillerbicubic4 -p9 -n4 -futmin.txt -iparamin.txt -omiller.txt
+pproject -cmillerbicubic10 -p9 -n10 -futmin.txt -iparamin.txt -omiller.txt
+pproject -cmillerbicubic100 -p9 -n100 -futmin.txt -iparamin.txt -omiller.txt
+pproject -cmillerbicubic500 -p9 -n500 -futmin.txt -iparamin.txt -omiller.txt
+pproject -cmillerleastsqrs4 -p6 -n4 -futmin.txt -iparamin.txt -omiller.txt
+pproject -cmillerleastsqrs10 -p6 -n10 -futmin.txt -iparamin.txt -omiller.txt
+pproject -cmillerleastsqrs100 -p6 -n100 -futmin.txt -iparamin.txt -omiller.txt
+pproject -cmillerleastsqrs500 -p6 -n500 -futmin.txt -iparamin.txt -omiller.txt
+pproject -cpolybilinear4 -p8 -n4 -futmin.txt -iparamin.txt -opoly.txt
+pproject -cpolybilinear10 -p8 -n10 -futmin.txt -iparamin.txt -opoly.txt
+pproject -cpolybilinear100 -p8 -n100 -futmin.txt -iparamin.txt -opoly.txt
+pproject -cpolybilinear500 -p8 -n500 -futmin.txt -iparamin.txt -opoly.txt
+pproject -cpolybicubic4 -p9 -n4 -futmin.txt -iparamin.txt -opoly.txt
+pproject -cpolybicubic10 -p9 -n10 -futmin.txt -iparamin.txt -opoly.txt
+pproject -cpolybicubic100 -p9 -n100 -futmin.txt -iparamin.txt -opoly.txt
+pproject -cpolybicubic500 -p9 -n500 -futmin.txt -iparamin.txt -opoly.txt
+pproject -cpolyleastsqrs4 -p6 -n4 -futmin.txt -iparamin.txt -opoly.txt
+pproject -cpolyleastsqrs10 -p6 -n10 -futmin.txt -iparamin.txt -opoly.txt
+pproject -cpolyleastsqrs100 -p6 -n100 -futmin.txt -iparamin.txt -opoly.txt
+pproject -cpolyleastsqrs500 -p6 -n500 -futmin.txt -iparamin.txt -opoly.txt
+pproject -ctmbilinear4 -p8 -n4 -futmin.txt -iparamin.txt -otm.txt
+pproject -ctmbilinear10 -p8 -n10 -futmin.txt -iparamin.txt -otm.txt
+pproject -ctmbilinear100 -p8 -n100 -futmin.txt -iparamin.txt -otm.txt
+pproject -ctmbilinear500 -p8 -n500 -futmin.txt -iparamin.txt -otm.txt
+pproject -ctmbicubic4 -p9 -n4 -futmin.txt -iparamin.txt -otm.txt
+pproject -ctmbicubic10 -p9 -n10 -futmin.txt -iparamin.txt -otm.txt
+pproject -ctmbicubic100 -p9 -n100 -futmin.txt -iparamin.txt -otm.txt
+pproject -ctmbicubic500 -p9 -n500 -futmin.txt -iparamin.txt -otm.txt
+pproject -ctmleastsqrs4 -p6 -n4 -futmin.txt -iparamin.txt -otm.txt
+pproject -ctmleastsqrs10 -p6 -n10 -futmin.txt -iparamin.txt -otm.txt
+pproject -ctmleastsqrs100 -p6 -n100 -futmin.txt -iparamin.txt -otm.txt
+pproject -ctmleastsqrs500 -p6 -n500 -futmin.txt -iparamin.txt -otm.txt
+pproject -cpsbilinear4 -p8 -n4 -futmin.txt -iparamin.txt -ops.txt
+pproject -cpsbilinear10 -p8 -n10 -futmin.txt -iparamin.txt -ops.txt
+pproject -cpsbilinear100 -p8 -n100 -futmin.txt -iparamin.txt -ops.txt
+pproject -cpsbilinear500 -p8 -n500 -futmin.txt -iparamin.txt -ops.txt
+pproject -cpsbicubic4 -p9 -n4 -futmin.txt -iparamin.txt -ops.txt
+pproject -cpsbicubic10 -p9 -n10 -futmin.txt -iparamin.txt -ops.txt
+pproject -cpsbicubic100 -p9 -n100 -futmin.txt -iparamin.txt -ops.txt
+pproject -cpsbicubic500 -p9 -n500 -futmin.txt -iparamin.txt -ops.txt
+pproject -cpsleastsqrs4 -p6 -n4 -futmin.txt -iparamin.txt -ops.txt
+pproject -cpsleastsqrs10 -p6 -n10 -futmin.txt -iparamin.txt -ops.txt
+pproject -cpsleastsqrs100 -p6 -n100 -futmin.txt -iparamin.txt -ops.txt
+pproject -cpsleastsqrs500 -p6 -n500 -futmin.txt -iparamin.txt -ops.txt
+
+
+
+
+
+
+
